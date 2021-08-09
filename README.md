@@ -6,6 +6,10 @@ This book uses SPSS. I am preparing updated materials with more polished text an
 
 As this book will not be updated further, I only recommend it to my former students who used it in their course.
 
+# Source
+
+The source available here can be compiled using <a href="https://www.bookdown.org">Bookdown</a> in R.
+
 # View the compiled book
 
 View the compiled book at <a href="https://www.davidschuster.info/books/statistics-legacy/">https://www.davidschuster.info/books/statistics-legacy/</a>.
